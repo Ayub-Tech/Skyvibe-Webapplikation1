@@ -1,0 +1,6 @@
+@Skyvibe_Webapplikation1_HostAddress = http://localhost:5276
+
+GET {{Skyvibe_Webapplikation1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
